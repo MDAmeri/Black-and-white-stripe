@@ -18,5 +18,8 @@
     <ClCompile Include="Black and white stripe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Black and white stripe 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
